@@ -1,0 +1,10 @@
+name: GuiShopManager
+version: ${project.version}
+description: BossShopPro Addon - Allows opening GUIs in new ways
+author: Black_ixx
+website: http://felix.neuby.de
+main: org.black_ixx.bossshop.addon.guishopmanager.GuiShopManager
+depend: [BossShopPro]
+commands:
+  gsm:
+   description: GUIShopManager command

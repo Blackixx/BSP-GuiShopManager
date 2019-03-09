@@ -1,0 +1,1 @@
+* Refresh placeholders of items in livetime (only when slot is fix)

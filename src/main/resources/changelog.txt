@@ -1,0 +1,55 @@
+v1.1.2
+*[NOTE] Still compatible with older Spigot builds (1.7 and above)
+*[UPDATE] Update for Spigot 1.13.*
+
+
+v1.1.1
+*[FIX] Small bugfix
+
+
+v1.1.0 (Requires BossShopPro v1.6.8 or higher)
+*[UPDATE] Updated to BossShopPro v1.6.8
+
+v1.0.9
+*[IMPROVE] Now able to detect GuiShopManager items with a stacksize different from the one defined in the config
+
+
+v1.0.8 (Requires BossShopPro v1.4.2 or higher)
+*[UPDATE] Updated to BossShopPro v1.4.2
+
+
+v1.0.7 (Requires BossShopPro v1.3.9 or higher)
+*[UPDATE] Updated to BossShopPro v1.3.9
+
+
+v1.0.6
+*[ADD] Added multiworld support: You can now restrict items to specific worlds
+*[ADD] Added option that clears the players inventory on world change
+*[ADD] Added optional join delay (When players join the plugin will wait the given amount of ticks until it gives the gsm-items)
+
+
+v1.0.5
+*[IMPROVE] When giving players gsm-items per command they are put in the slot defined in the configuration file now
+*[FIX] "GiveOnJoin" property was not used properly and items always given
+
+
+v1.0.4
+*[FIX] It was not possible to remove the default items
+
+
+v1.0.3 (Needs BossShopPro v1.0.7 or higher)
+*[UPDATE] Updated to BossShopPro v1.0.7
+
+
+v1.0.2
+*[ADD] Added new option that clears the players inventory on join (Helpful for Lobby servers)
+*[IMPROVE] Now refreshing the players inventory after he clicks an item in order to obviate any possible issues
+
+
+v1.0.1
+*[ADD] Now you can bind commands and playercommands to GSM items
+*[ADD] Optionally accepting leftclicks now
+
+
+v1.0.0
+* First release
